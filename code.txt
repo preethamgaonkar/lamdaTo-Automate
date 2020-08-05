@@ -1,0 +1,7 @@
+echo "# lamdaTo-Automate" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/preethamgaonkar/lamdaTo-Automate.git
+git push -u origin master
+                
